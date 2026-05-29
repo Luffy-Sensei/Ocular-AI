@@ -12,13 +12,17 @@ Unlike generic object detection tools, Ocular AI provides contextual spatial awa
 
 ## App Screenshots
 
-| Startup State | Dashboard | Object Detection Mode | Human Detection Mode |
-|:---:|:---:|:---:|
-| ![Startup](screenshots/initializing.png) | ![Dashboard](screenshots/dashboard.png) | ![Object Scan](screenshots/object_detection.png) | ![Human Scan](screenshots/human_detection.png) |
+<p align="center">
+  <img src="screenshots/initializing.png" width="22%" alt="Startup State" />
+  <img src="screenshots/dashboard.png" width="22%" alt="Dashboard" />
+  <img src="screenshots/object_detection.png" width="22%" alt="Object Detection Mode" />
+  <img src="screenshots/human_detection.png" width="22%" alt="Human Detection Mode" />
+</p>
 
-| Miscellaneous Scans | Lens Blocked Warning |
-|:---:|:---:|
-| ![Things Scan](screenshots/things_detection.png) | ![Lens Blocked](screenshots/lens_blocked.png) |
+<p align="center">
+  <img src="screenshots/things_detection.png" width="22%" alt="Miscellaneous Scans" />
+  <img src="screenshots/lens_blocked.png" width="22%" alt="Lens Blocked Warning" />
+</p>
 
 
 ## Features
