@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="60dp"
+    android:height="60dp"
+    android:viewportWidth="60"
+    android:viewportHeight="60">
+
+    <!-- Top-left corner -->
+    <path
+        android:pathData="M8,20 L8,8 L20,8"
+        android:strokeColor="#00FFCC"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+
+    <!-- Top-right corner -->
+    <path
+        android:pathData="M40,8 L52,8 L52,20"
+        android:strokeColor="#00FFCC"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+
+    <!-- Bottom-left corner -->
+    <path
+        android:pathData="M8,40 L8,52 L20,52"
+        android:strokeColor="#00FFCC"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+
+    <!-- Bottom-right corner -->
+    <path
+        android:pathData="M40,52 L52,52 L52,40"
+        android:strokeColor="#00FFCC"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+
+    <!-- Center dot (using path instead of circle) -->
+    <path
+        android:pathData="M29,30 L31,30 M30,29 L30,31"
+        android:strokeColor="#00FFCC"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+
+    <!-- Horizontal crosshair line -->
+    <path
+        android:pathData="M22,30 L38,30"
+        android:strokeColor="#4C00FFCC"
+        android:strokeWidth="0.8" />
+
+    <!-- Vertical crosshair line -->
+    <path
+        android:pathData="M30,22 L30,38"
+        android:strokeColor="#4C00FFCC"
+        android:strokeWidth="0.8" />
+
+</vector>

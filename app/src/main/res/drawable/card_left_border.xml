@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item>
+    <shape>
+        <solid android:color="#00FFCC" />
+        <corners android:radius="16dp" />
+    </shape>
+</item>
+<item android:left="3dp">
+    <shape>
+        <solid android:color="#E0000000" />  <!-- match card bg -->
+        <corners android:radius="16dp" />
+    </shape>
+</item>
+</layer-list>
