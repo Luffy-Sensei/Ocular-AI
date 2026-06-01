@@ -46,7 +46,7 @@ Unlike generic object detection tools, Ocular AI provides contextual spatial awa
 - **Core Framework APIs:** Android Text-to-Speech, SpeechRecognizer, SensorManager (Accelerometer), Vibrator API
 
 ## APK Download
-[Download Ocular AI APK](apk/OcularAI.apk)
+[Download Ocular AI APK](apk/OcularAI.apk?raw=true)
 
 ## How to Install the APK
 1. Download the `OcularAI.apk` file directly onto your Android device from the directory link above.
