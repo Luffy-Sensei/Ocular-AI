@@ -45,8 +45,22 @@ Unlike generic object detection tools, Ocular AI provides contextual spatial awa
 - **Pre-trained Model:** EfficientDet-Lite0 / MobileNet SSD v2
 - **Core Framework APIs:** Android Text-to-Speech, SpeechRecognizer, SensorManager (Accelerometer), Vibrator API
 
-## APK Download
-[Download Ocular AI APK](apk/OcularAI.apk?raw=true)
+## 📱 APK Download
+
+<p align="left">
+  <a href="https://github.com/Luffy-Sensei/Ocular-AI/raw/main/apk/OcularAI.apk">
+    <img src="https://img.shields.io/badge/Download-OcularAI_APK-brightgreen?style=for-the-badge&logo=android" alt="Download APK" />
+  </a>
+</p>
+
+> **Minimum Requirements:** Android 7.0 (API 24) or higher  
+> **APK Size:** ~53.2MB (includes localized ML model weights)  
+> **Permissions Required:** Camera, Microphone, Vibration
+
+| Download Method | Link |
+|----------------|------|
+| 📥 **Direct Download (GitHub)** | [OcularAI.apk](https://github.com/Luffy-Sensei/Ocular-AI/raw/main/apk/OcularAI.apk) |
+| 📥 **Mirror Download (Google Drive)** | [OcularAI.apk](https://drive.google.com/uc?export=download&id=1JslXoaiI88t26dRsRJAjSA70-4hwWhps) |
 
 ## How to Install the APK
 1. Download the `OcularAI.apk` file directly onto your Android device from the directory link above.
